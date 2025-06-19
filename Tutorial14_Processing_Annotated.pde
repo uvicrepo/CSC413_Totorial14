@@ -1,5 +1,5 @@
 // Start Arduino code, then run this, it will print the port name to which your 
-// Arduino is connected, change line 28 (portName) accordingly
+// Arduino is connected, change line 31 index accordingly ( Serial.list()[#] )
 import processing.serial.*;
 
 int n = 1000;  // Number of particles
